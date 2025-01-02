@@ -1,1 +1,1 @@
-# OneYearBibleReadingPlan
+# One Year Bible Reading Plan
