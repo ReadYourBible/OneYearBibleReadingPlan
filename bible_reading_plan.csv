@@ -1,0 +1,366 @@
+Day,Info
+Day 1,genesis 1-3
+Day 2,genesis 4-7
+Day 3,genesis 8-11
+Day 4,job 1-5
+Day 5,job 6-9
+Day 6,job 10-13
+Day 7,job 14-16
+Day 8,job 17-20
+Day 9,job 21-23
+Day 10,job 24-28
+Day 11,job 29-31
+Day 12,job 32-34
+Day 13,job 35-37
+Day 14,job 38-39
+Day 15,job 40-42
+Day 16,genesis 12-15
+Day 17,genesis 16-18
+Day 18,genesis 19-21
+Day 19,genesis 22-24
+Day 20,genesis 25-26
+Day 21,genesis 27-29
+Day 22,genesis 30-31
+Day 23,genesis 32-34
+Day 24,genesis 35-37
+Day 25,genesis 38-40
+Day 26,genesis 41-42
+Day 27,genesis 43-45
+Day 28,genesis 46-47
+Day 29,genesis 48-50
+Day 30,exodus 1-3
+Day 31,exodus 4-6
+Day 32,exodus 7-9
+Day 33,exodus 10-12
+Day 34,exodus 13-15
+Day 35,exodus 16-18
+Day 36,exodus 19-21
+Day 37,exodus 22-24
+Day 38,exodus 25-27
+Day 39,exodus 28-29
+Day 40,exodus 30-32
+Day 41,exodus 33-35
+Day 42,exodus 36-38
+Day 43,exodus 39-40
+Day 44,leviticus 1-4
+Day 45,leviticus 5-7
+Day 46,leviticus 8-10
+Day 47,leviticus 11-13
+Day 48,leviticus 14-15
+Day 49,leviticus 16-18
+Day 50,leviticus 19-21
+Day 51,leviticus 22-23
+Day 52,leviticus 24-25
+Day 53,leviticus 26-27
+Day 54,numbers 1-2
+Day 55,numbers 3-4
+Day 56,numbers 5-6
+Day 57,numbers 7
+Day 58,numbers 8-10
+Day 59,numbers 11-13
+Day 60,numbers 14-15; psalm 90
+Day 61,numbers 16-17
+Day 62,numbers 18-20
+Day 63,numbers 21-22
+Day 64,numbers 23-25
+Day 65,numbers 26-27
+Day 66,numbers 28-30
+Day 67,numbers 31-32
+Day 68,numbers 33-34
+Day 69,numbers 35-36
+Day 70,deuteronomy 1-2
+Day 71,deuteronomy 3-4
+Day 72,deuteronomy 5-7
+Day 73,deuteronomy 8-10
+Day 74,deuteronomy 11-13
+Day 75,deuteronomy 14-16
+Day 76,deuteronomy 17-20
+Day 77,deuteronomy 21-23
+Day 78,deuteronomy 24-27
+Day 79,deuteronomy 28-29
+Day 80,deuteronomy 30-31
+Day 81,deuteronomy 32-34; psalm 91
+Day 82,joshua 1-4
+Day 83,joshua 5-8
+Day 84,joshua 9-11
+Day 85,joshua 12-15
+Day 86,joshua 16-18
+Day 87,joshua 19-21
+Day 88,joshua 22-24
+Day 89,judges 1-2
+Day 90,judges 3-5
+Day 91,judges 6-7
+Day 92,judges 8-9
+Day 93,judges 10-12
+Day 94,judges 13-15
+Day 95,judges 16-18
+Day 96,judges 19-21
+Day 97,ruth 1-4
+Day 98,1 samuel 1-3
+Day 99,1 samuel 4-8
+Day 100,1 samuel 9-12
+Day 101,1 samuel 13-14
+Day 102,1 samuel 15-17
+Day 103,"1 samuel 18-20; psalm 11, 59"
+Day 104,1 samuel 21-24
+Day 105,"psalm 7, 27, 31, 34, 52"
+Day 106,"psalm 56, 120, 140-142"
+Day 107,1 samuel 25-27
+Day 108,"psalm 17, 35, 54, 63"
+Day 109,1 samuel 28-31; psalm 18
+Day 110,"psalm 121, 123-125, 128-130"
+Day 111,2 samuel 1-4
+Day 112,"psalm 6, 8-10, 14, 16, 19, 21"
+Day 113,1 chronicles 1-2
+Day 114,"psalm 43-45, 49, 84-85, 87"
+Day 115,1 chronicles 3-5
+Day 116,"psalm 73, 77-78"
+Day 117,1 chronicles 6
+Day 118,"psalm 81, 88, 92-93"
+Day 119,1 chronicles 7-10
+Day 120,psalm 102-104
+Day 121,2 samuel 5:1-10; 1 chronicles 11-12
+Day 122,psalm 133
+Day 123,psalm 106-107
+Day 124,2 samuel 5:11-25; 2 samuel 6:1-23; 1 chronicles 13-16
+Day 125,"psalm 1-2, 15, 22-24, 47, 68"
+Day 126,"psalm 89, 96, 100, 101, 105, 132"
+Day 127,2 samuel 7; 1 chronicles 17
+Day 128,"psalm 25, 29, 33, 36, 39"
+Day 129,2 samuel 8-9; 1 chronicles 18
+Day 130,"psalm 50, 53, 60, 75"
+Day 131,2 sam10; 1 chronicles 19; psalm 20
+Day 132,"psalm 65-67, 69-70"
+Day 133,2 samuel 11-12; 1 chronicles 20
+Day 134,"psalm 32, 51, 86, 122"
+Day 135,2 samuel 13-15
+Day 136,"psalm 3-4, 12-13, 28, 55"
+Day 137,2 samuel 16-18
+Day 138,"psalm 26, 40, 58, 61-62, 64"
+Day 139,2 samuel 19-21
+Day 140,"psalm 5, 38, 41-42"
+Day 141,2 samuel 22-23; psalm 57
+Day 142,"psalm 95, 97-99"
+Day 143,2 samuel 24; 1 chronicles 21-22; psalm 30
+Day 144,psalm 108-110
+Day 145,1 chronicles 23-25
+Day 146,"psalm 131, 138-139, 143-145"
+Day 147,1 chronicles 26-29; psalm 127
+Day 148,psalm 111-118
+Day 149,"1 kings 1-2; psalm 37, 71, 94"
+Day 150,psalm 119:1-88
+Day 151,1 kings 3-4; 2 chronicles 1; psalm 72
+Day 152,psalm 119:89-176
+Day 153,song of solomon 1-8
+Day 154,proverbs 1-3
+Day 155,proverbs 4-6
+Day 156,proverbs 7-9
+Day 157,proverbs 10-12
+Day 158,proverbs 13-15
+Day 159,proverbs 16-18
+Day 160,proverbs 19-21
+Day 161,proverbs 22-24
+Day 162,1 kings 5-6; 2 chronicles 2-3
+Day 163,1 kings 7; 2 chronicles 4
+Day 164,1 kings 8; 2 chronicles 5
+Day 165,2 chronicles 6-7; psalm 136
+Day 166,"psalm 134, 146-150"
+Day 167,1 kings 9; 2 chronicles 8
+Day 168,proverbs 25-26
+Day 169,proverbs 27-29
+Day 170,ecclesiastes 1-6
+Day 171,ecclesiastes 7-12
+Day 172,1 kings 10-11; 2 chronicles 9
+Day 173,proverbs 30-31
+Day 174,1 kings 12-14
+Day 175,2 chronicles 10-12
+Day 176,1 kings 15:1-24; 2 chronicles 13-16
+Day 177,1 kings 15:25-34; 1 kings 16:1-34; 2 chronicles 17
+Day 178,1 kings 17-19
+Day 179,1 kings 20-21
+Day 180,1 kings 22; 2 chronicles 18
+Day 181,2 chronicles 19-23
+Day 182,obadiah; psalm 82-83
+Day 183,2 kings 1-4
+Day 184,2 kings 5-8
+Day 185,2 kings 9-11
+Day 186,2 kings 12-13; 2 chronicles 24
+Day 187,2 kings 14; 2 chronicles 25
+Day 188,jonah 1-4
+Day 189,2 kings 15; 2 chronicles 26
+Day 190,isaiah 1-4
+Day 191,isaiah 5-8
+Day 192,amos 1-5
+Day 193,amos 6-9
+Day 194,2 chronicles 27; isaiah 9-12
+Day 195,micah 1-7
+Day 196,2 chronicles 28; 2 kings 16-17
+Day 197,isaiah 13-17
+Day 198,isaiah 18-22
+Day 199,isaiah 23-27
+Day 200,2 kings 18:1-8; 2 chronicles 29-31; psalm 48
+Day 201,hosea 1-7
+Day 202,hosea 8-14
+Day 203,isaiah 28-30
+Day 204,isaiah 31-34
+Day 205,isaiah 35-36
+Day 206,isaiah 37-39; psalm 76
+Day 207,isaiah 40-43
+Day 208,isaiah 44-48
+Day 209,"2 kings 18:9-37; 2 kings 19:1-37; psalm 46, 80, 135"
+Day 210,isaiah 49-53
+Day 211,isaiah 54-58
+Day 212,isaiah 59-63
+Day 213,isaiah 64-66
+Day 214,2 kings 20-21
+Day 215,2 chronicles 32-33
+Day 216,nahum 1-3
+Day 217,2 kings 22-23; 2 chronicles 34-35
+Day 218,zephaniah 1-3
+Day 219,jeremiah 1-3
+Day 220,jeremiah 4-6
+Day 221,jeremiah 7-9
+Day 222,jeremiah 10-13
+Day 223,jeremiah 14-17
+Day 224,jeremiah 18-22
+Day 225,jeremiah 23-25
+Day 226,jeremiah 26-29
+Day 227,jeremiah 30-31
+Day 228,jeremiah 32-34
+Day 229,jeremiah 35-37
+Day 230,"jeremiah 38-40; psalm 74, 79"
+Day 231,2 kings 24-25; 2 chronicles 36
+Day 232,habakkuk 1-3
+Day 233,jeremiah 41-45
+Day 234,jeremiah 46-48
+Day 235,jeremiah 49-50
+Day 236,jeremiah 51-52
+Day 237,lamentations 1; lamentations 2; lamentations 3:1-36
+Day 238,lamentations 3:37-66; lamentations 4; lamentations 5:1-22
+Day 239,ezekiel 1-4
+Day 240,ezekiel 5-8
+Day 241,ezekiel 9-12
+Day 242,ezekiel 13-15
+Day 243,ezekiel 16-17
+Day 244,ezekiel 18-19
+Day 245,ezekiel 20-21
+Day 246,ezekiel 22-23
+Day 247,ezekiel 24-27
+Day 248,ezekiel 28-31
+Day 249,ezekiel 32-34
+Day 250,ezekiel 35-37
+Day 251,ezekiel 38-39
+Day 252,ezekiel 40-41
+Day 253,ezekiel 42-43
+Day 254,ezekiel 44-45
+Day 255,ezekiel 46-48
+Day 256,joel 1-3
+Day 257,daniel 1-3
+Day 258,daniel 4-6
+Day 259,daniel 7-9
+Day 260,daniel 10-12
+Day 261,ezra 1-3
+Day 262,ezra 4-6; psalm 137
+Day 263,haggai 1-2
+Day 264,zechariah 1-7
+Day 265,zechariah 8-14
+Day 266,esther 1-5
+Day 267,esther 6-10
+Day 268,ezra 7-10
+Day 269,nehemiah 1-5
+Day 270,nehemiah 6-7
+Day 271,nehemiah 8-10
+Day 272,nehemiah 11-13; psalm 126
+Day 273,malachi 1-4
+Day 274,luke 1; john 1:1-14
+Day 275,matthew 1; luke 2:1-38
+Day 276,matthew 2; luke 2:39-52
+Day 277,matthew 3; mark 1; luke 3
+Day 278,matthew 4; luke 4-5; john 1:15-51
+Day 279,john 2-4
+Day 280,mark 2
+Day 281,john 5
+Day 282,matthew 12:1-21; mark 3; luke 6
+Day 283,matthew 5-7
+Day 284,matthew 8:1-13; luke 7
+Day 285,matthew 11
+Day 286,matthew 12:22-50; luke 11
+Day 287,matthew 13; luke 8
+Day 288,matthew 8:14-34; mark 4-5
+Day 289,matthew 9-10
+Day 290,matthew 14; mark 6; luke 9:1-17
+Day 291,john 6
+Day 292,matthew 15; mark 7
+Day 293,matthew 16; mark 8; luke 9:18-27
+Day 294,matthew 17; mark 9; luke 9:28-62
+Day 295,matthew 18
+Day 296,john 7-8
+Day 297,john 9:1-41; john 10:1-21
+Day 298,luke 10-11; john 10:22-42
+Day 299,luke 12-13
+Day 300,luke 14-15
+Day 301,luke 16; luke 17:1-10
+Day 302,john 11
+Day 303,luke 17:11-37; luke 18:1-14
+Day 304,matthew 19; mark 10
+Day 305,matthew 20-21
+Day 306,luke 18:15--43; luke 19:1-48
+Day 307,mark 11; john 12
+Day 308,matthew 22; mark 12
+Day 309,matthew 23; luke 20-21
+Day 310,mark 13
+Day 311,matthew 24
+Day 312,matthew 25
+Day 313,matthew 26; mark 14
+Day 314,luke 22; john 13
+Day 315,john 14-17
+Day 316,matthew 27; mark 15
+Day 317,luke 23; john 18-19
+Day 318,matthew 28; mark 16
+Day 319,luke 24; john 20-21
+Day 320,acts 1-3
+Day 321,acts 4-6
+Day 322,acts 7-8
+Day 323,acts 9-10
+Day 324,acts 11-12
+Day 325,acts 13-14
+Day 326,james 1-5
+Day 327,acts 15-16
+Day 328,galatians 1-3
+Day 329,galatians 4-6
+Day 330,acts 17; acts 18:1-18
+Day 331,1 thessalonians 1-5; 2 thessalonians 1-3
+Day 332,acts 18:19-28; acts 19:1-41
+Day 333,1 corinthians 1-4
+Day 334,1 corinthians 5-8
+Day 335,1 corinthians 9-11
+Day 336,1 corinthians 12-14
+Day 337,1 corinthians 15-16
+Day 338,2 corinthians 1-4
+Day 339,2 corinthians 5-9
+Day 340,2 corinthians 10-13
+Day 341,acts 20:1-3; romans 1-3
+Day 342,romans 4-7
+Day 343,romans 8-10
+Day 344,romans 11-13
+Day 345,romans 14-16
+Day 346,acts 20:4-38; acts 21; acts 22; acts 23:1-35
+Day 347,acts 24-26
+Day 348,acts 27-28
+Day 349,colossians 1-4; philemon
+Day 350,ephesians 1-6
+Day 351,philippians 1-4
+Day 352,1 timothy 1-6
+Day 353,titus 1-3
+Day 354,1 peter 1-5
+Day 355,hebrews 1-6
+Day 356,hebrews 7-10
+Day 357,hebrews 11-13
+Day 358,2 timothy 1-4
+Day 359,2 peter 1-3; jude
+Day 360,1 john 1-5
+Day 361,2 john; 3 john
+Day 362,revelation 1-5
+Day 363,revelation 6-11
+Day 364,revelation 12-18
+Day 365,revelation 19-22
